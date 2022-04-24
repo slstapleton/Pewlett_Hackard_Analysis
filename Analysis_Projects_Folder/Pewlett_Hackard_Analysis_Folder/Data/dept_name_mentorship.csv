@@ -1,0 +1,10 @@
+dept_no,birth_date,to_date,title,dept_name
+d001,1965-01-08,9999-01-01,Staff,Marketing
+d002,1965-01-10,9999-01-01,Senior Staff,Finance
+d003,1965-01-26,9999-01-01,Senior Staff,Human Resources
+d004,1965-01-31,9999-01-01,Senior Engineer,Production
+d005,1965-01-16,9999-01-01,Senior Engineer,Development
+d006,1965-01-31,9999-01-01,Senior Engineer,Quality Management
+d007,1965-01-24,9999-01-01,Senior Staff,Sales
+d008,1965-01-27,9999-01-01,Senior Staff,Research
+d009,1965-01-11,9999-01-01,Staff,Customer Service
